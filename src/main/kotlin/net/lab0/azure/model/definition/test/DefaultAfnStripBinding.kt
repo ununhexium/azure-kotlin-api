@@ -1,0 +1,11 @@
+package net.lab0.azure.model.definition.test
+
+import kotlin.Int
+
+interface DefaultAfnStripBinding {
+  val testCaseId: Int
+
+  val testResultId: Int
+
+  val testRunId: Int
+}

@@ -1,7 +1,0 @@
-package net.lab0.azure.testplan.model.definition
-
-import kotlin.Int
-
-interface VssJsonCollectionWrapperBase {
-  val count: Int
-}
